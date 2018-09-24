@@ -1,0 +1,13 @@
+@import 'config';
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  background-color: $primaryBackgroundColor;
+}
+canvas {
+  background-color: rgba(199, 213, 223, 0.822);
+  display: block;
+}
